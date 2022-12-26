@@ -1,0 +1,26 @@
+{
+  "application":
+  {
+    "tasks window":
+    {
+      "Your tasks" : "Your tasks :",
+      "Title" : "Title",
+      "Description" : "Descryption",
+      "AddNewTaskButton" : "Add new task",
+      "DeleteSelectedTasksButton" : "Delete selected tasks",
+      "DeleteAllTasksButton" : "Delete all tasks"
+    },
+  "MessageBox":
+  {
+    "WarningHeader" : "Warning!",
+    "ErrorHeader" : "Error!",
+    "CompleteTitleAndDescryptionFieldsText" : "Complete title and description fields!"
+  },
+  "WorkTask":
+  {
+    "TaskTitle" : "Task title :",
+    "TaskDescription" : "Task description:",
+    "TaskCreationDate" : "Task creation date :"
+  }
+}
+}

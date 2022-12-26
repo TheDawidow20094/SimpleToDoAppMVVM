@@ -1,0 +1,26 @@
+{
+  "application":
+  {
+    "tasks window":
+    {
+      "Your tasks" : "Twoje zadania :",
+      "Title" : "Tytuł",
+      "Description" : "Opis",
+      "AddNewTaskButton" : "Dodaj zadanie",
+      "DeleteSelectedTasksButton" : "Usuń zaznaczone zadania",
+      "DeleteAllTasksButton" : "Usuń wszystkie zadania"
+    },
+  "MessageBox":
+  {
+    "WarningHeader" : "UWAGA!",
+    "ErrorHeader" : "BŁĄD!",
+    "CompleteTitleAndDescryptionFieldsText" : "Uzupełnij pola tytuł oraz opis!"
+  },
+  "WorkTask":
+  {
+    "TaskTitle" : "Tytuł zadania :",
+    "TaskDescription" : "Opis zadania :",
+    "TaskCreationDate" : "Data utworzenia zadania :"
+  }
+}
+}

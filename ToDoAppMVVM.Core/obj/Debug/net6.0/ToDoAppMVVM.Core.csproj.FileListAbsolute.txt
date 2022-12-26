@@ -1,0 +1,13 @@
+C:\Users\Dawid\Documents\Projects\ToDoAppMVVM\ToDoAppMVVM\ToDoAppMVVM.Core\obj\Debug\net6.0\ToDoAppMVVM.Core.csproj.AssemblyReference.cache
+C:\Users\Dawid\Documents\Projects\ToDoAppMVVM\ToDoAppMVVM\ToDoAppMVVM.Core\obj\Debug\net6.0\ToDoAppMVVM.Core.csproj.ResolveComReference.cache
+C:\Users\Dawid\Documents\Projects\ToDoAppMVVM\ToDoAppMVVM\ToDoAppMVVM.Core\obj\Debug\net6.0\ToDoAppMVVM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\Documents\Projects\ToDoAppMVVM\ToDoAppMVVM\ToDoAppMVVM.Core\obj\Debug\net6.0\ToDoAppMVVM.Core.AssemblyInfoInputs.cache
+C:\Users\Dawid\Documents\Projects\ToDoAppMVVM\ToDoAppMVVM\ToDoAppMVVM.Core\obj\Debug\net6.0\ToDoAppMVVM.Core.AssemblyInfo.cs
+C:\Users\Dawid\Documents\Projects\ToDoAppMVVM\ToDoAppMVVM\ToDoAppMVVM.Core\obj\Debug\net6.0\ToDoAppMVVM.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Documents\Projects\ToDoAppMVVM\ToDoAppMVVM\ToDoAppMVVM.Core\bin\Debug\net6.0\ToDoAppMVVM.Core.deps.json
+C:\Users\Dawid\Documents\Projects\ToDoAppMVVM\ToDoAppMVVM\ToDoAppMVVM.Core\bin\Debug\net6.0\ToDoAppMVVM.Core.dll
+C:\Users\Dawid\Documents\Projects\ToDoAppMVVM\ToDoAppMVVM\ToDoAppMVVM.Core\bin\Debug\net6.0\ToDoAppMVVM.Core.pdb
+C:\Users\Dawid\Documents\Projects\ToDoAppMVVM\ToDoAppMVVM\ToDoAppMVVM.Core\obj\Debug\net6.0\ToDoAppMVVM.Core.dll
+C:\Users\Dawid\Documents\Projects\ToDoAppMVVM\ToDoAppMVVM\ToDoAppMVVM.Core\obj\Debug\net6.0\refint\ToDoAppMVVM.Core.dll
+C:\Users\Dawid\Documents\Projects\ToDoAppMVVM\ToDoAppMVVM\ToDoAppMVVM.Core\obj\Debug\net6.0\ToDoAppMVVM.Core.pdb
+C:\Users\Dawid\Documents\Projects\ToDoAppMVVM\ToDoAppMVVM\ToDoAppMVVM.Core\obj\Debug\net6.0\ref\ToDoAppMVVM.Core.dll
