@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ltfeq3NaKNSa5yqQD8VQJuSIxjU3quYcLVJb56rj+HWlrKtMCoJ/gNRWhG1BMN14AXsL8sbdvQ5ZmzwA/6UZGQ==",
+  "dgSpecHash": "/argVi62LRoVivQz0cYHu0simxwY6PH78Ej4y/8YC3B4AsKhjkTgZVkketpwbnsLqbtw7T3h88m5EHTxfP8ZIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dawid\\Documents\\Projects\\ToDoAppMVVM\\ToDoAppMVVM\\ToDoAppMVVM.Core\\ToDoAppMVVM.Core.csproj",
+  "projectFilePath": "C:\\Users\\Dawid\\Documents\\Projects\\SimpleToDoAppMVVM\\ToDoAppMVVM.Core\\ToDoAppMVVM.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dawid\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
     "C:\\Users\\Dawid\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
